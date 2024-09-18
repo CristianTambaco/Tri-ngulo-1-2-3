@@ -1,1 +1,1 @@
-# Tri-ngulo-1-2-3
+# Triangulo-1-2-3
